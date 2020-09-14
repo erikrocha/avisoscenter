@@ -1,0 +1,17 @@
+{
+  "name": "APP Avisos",
+  "short_name": "APP Avisos",
+  "icons": [
+    {
+      "src": "/static/img/icons/appavisos.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#2196f3",
+  "theme_color": "#000",
+  "orientation": "portrait",
+  "lang": "es-PE"
+}
